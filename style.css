@@ -45,6 +45,7 @@ body {
 .login-container {
     
     background-color: white;
+    border-radius: 6%;
     text-align: left;
     width: 500px;
     height: 500px;
